@@ -1,0 +1,27 @@
+# TrueCare24
+
+> TrueCare24 is a nationwide care platform providing care professionals and services for home and business — home care, on-demand healthcare staffing, visiting nurses, behavioral health, and workplace health programs such as flu vaccination, diabetes screening, and COVID-19 testing and vaccination. TrueCare24 is a 500 Global portfolio company and publishes no public developer program or API.
+
+## Website
+
+- [TrueCare24](https://www.truecare24.com/): Nationwide care platform for home and business
+- [Home Care](https://www.truecare24.com/homecare/): In-home care services and locations
+- [Healthcare Staffing](https://www.truecare24.com/healthcare-staffing/): On-demand healthcare staffing for facilities
+- [Staffing On Demand](https://www.truecare24.com/staffing-on-demand/): Per-diem clinical staffing
+- [Behavioral Health](https://www.truecare24.com/behavioral-health/): Behavioral health services including assisted living facilities
+- [Flu Vaccination](https://www.truecare24.com/flu-vaccination/): On-site flu vaccination events for employers
+- [COVID-19 Control Services](https://www.truecare24.com/covid-19-control-services): Workplace COVID-19 testing and safety programs
+- [About](https://www.truecare24.com/about/): Company background and team
+- [Contact](https://www.truecare24.com/contact/): Support and sales contact
+
+## Policies
+
+- [Terms of Service](https://www.truecare24.com/TermsofService)
+- [Privacy Policy](https://www.truecare24.com/privacy-policy/)
+- [Patient Rights](https://www.truecare24.com/patient-rights/)
+
+## API Evangelist profile
+
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/truecare24/refs/heads/main/apis.yml): APIs.json profile for TrueCare24 (no public API surface found as of 2026-07-21)
+
+<!-- generated: 2026-07-21 | method: generated | source: apis.yml + https://www.truecare24.com/ -->

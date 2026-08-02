@@ -1,8 +1,25 @@
 aid: truecare24
 name: TrueCare24
-description: TrueCare24 is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: TrueCare24 is a nationwide care platform providing care professionals
+  and services for home and business. Its offerings span in-home care, on-demand
+  healthcare staffing, visiting nurses, behavioral health and counseling, and
+  workplace health programs including flu vaccination, diabetes screening, and
+  COVID-19 testing and vaccination services. A 500 Global portfolio company,
+  TrueCare24 operates customer dashboards and a provider portal but publishes no
+  public developer program or API.
 url: https://raw.githubusercontent.com/api-evangelist/truecare24/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.truecare24.com/wp-content/uploads/2022/04/homepage2022.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +28,14 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Healthcare
+- Home Care
+- Healthcare Staffing
+- Vaccinations
+- Behavioral Health
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +45,24 @@ maintainers:
 common:
 - type: Website
   url: https://truecare24.com
+- type: Support
+  url: https://www.truecare24.com/contact/
+- type: Login
+  url: https://www.truecare24.com/dashboard/backend/login
+- type: TermsOfService
+  url: https://www.truecare24.com/TermsofService
+- type: PrivacyPolicy
+  url: https://www.truecare24.com/privacy-policy/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/truecare24
+- type: Twitter
+  url: https://twitter.com/truecare24
+- type: LLMsTxt
+  url: llms/truecare24-llms.txt
+- type: DomainSecurity
+  url: security/truecare24-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
